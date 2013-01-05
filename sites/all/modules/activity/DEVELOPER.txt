@@ -164,6 +164,7 @@ hook_activity_message_recorded($record, $context)
   Example:
     /**
      * Implementation of hook_activity_message_recorded().
+     * More one phrase.
      */
     function activity_user_status_activity_message_recorded($record) {
       // After a message has been recorded with activity, we then save it's id so
