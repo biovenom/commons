@@ -10,6 +10,8 @@
  * #ahah[wrapper] properties. If set, this file will automatically be included
  * to provide AHAH capabilities.
  */
+ 
+ /* Um exemplo */
 
 /**
  * Attaches the ahah behavior to each ahah form element.
