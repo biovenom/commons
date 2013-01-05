@@ -1,0 +1,7 @@
+drush_version=3.4-dev
+
+; Information added by drupal.org packaging script on 2011-02-25
+version = "All-versions-3.x-dev"
+project = "drush"
+datestamp = "1298619159"
+
